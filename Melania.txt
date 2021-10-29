@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esta es una modificacion 
+=======
+Tam 
+>>>>>>> 1317f9ac758c11e51bd2c5b1095699675731ec01
