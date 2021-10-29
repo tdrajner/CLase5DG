@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Vanina
 Tam 
+=======
+<<<<<<< HEAD
+Esta es una modificacion 
+=======
+Tam 
+>>>>>>> 1317f9ac758c11e51bd2c5b1095699675731ec01
+>>>>>>> 178351a95c9bce434cc10be71084a240daa740fe
